@@ -19,6 +19,7 @@ import ExpandBox from '@/components/ExpandBox.vue';
                 Autor: X "
    />
    
+   
   </div>
 </template>
 
