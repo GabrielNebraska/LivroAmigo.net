@@ -10,9 +10,9 @@
 </nav>
         <h1>Contato</h1>
 <p>Redes sociais:</p>
-<p>@biblio.net</p>
+<p>@LivroAmigo.net</p>
 <p>Endereço de email:</p>
-<p>Contato@biblio.net</p>
+<p>Contato@LivroAmigo.net</p>
 <p> Número de telefone:</p>
 <p>(123) 456 7890</p>
     </div>

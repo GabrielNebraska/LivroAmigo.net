@@ -35,7 +35,7 @@
   max-width: 600px; /* Largura máxima do formulário */
   margin: 0 auto; /* Centraliza o formulário horizontalmente */
   padding: 20px; /* Espaço interno do contêiner */
-  background-color: #9eeffa; /* Cor de fundo do formulário */
+  background-color: #faf19e; /* Cor de fundo do formulário */
   border-radius: 8px; /* Bordas arredondadas do formulário */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra leve ao redor do formulário */
 }
@@ -89,7 +89,7 @@ h1{
       font-weight: 700; 
        font-style: normal;
     font-size: 70px;
-    color: #4437fc;
+    color: #fcde37;
     text-align: center;
 }
 div{
@@ -99,7 +99,23 @@ nav {
     font-family: "Poppins", sans-serif;
 
     display: flex;
-    align-items: center;
+    align-items: center;.access-button {
+  background-color: #ffffff; /* Cor de fundo do botão */
+  border: none; /* Remove a borda padrão do botão */
+  border-radius: 5px; /* Bordas arredondadas do botão */
+  padding: 12px 20px; /* Espaço interno do botão */
+  color: #000000; /* Cor do texto do botão */
+  font-family: "Poppins", sans-serif; /* Fonte usada no botão */
+  font-size: 16px; /* Tamanho da fonte no botão */
+  cursor: pointer; /* Cursor de ponteiro ao passar o mouse sobre o botão */
+  display: inline-flex; /* Flexbox para centralizar o link */
+  justify-content: center; /* Centraliza o conteúdo do botão horizontalmente */
+  align-items: center; /* Centraliza o conteúdo do botão verticalmente */
+  text-decoration: none; /* Remove o sublinhado do link */
+  text-align: center; /* Alinha o texto no centro do botão */
+  margin-top: -10px; /* Move o botão para cima */
+}
+
     justify-content: space-between;
     background-color: #000000;
     padding: 10px 20px;
@@ -154,6 +170,6 @@ nav a:hover {
 
 /* Estiliza o botão ao passar o mouse */
 .access-button:hover {
-  background-color: #4c6bad; /* Cor de fundo mais escura ao passar o mouse */
+  background-color: #ad934c; /* Cor de fundo mais escura ao passar o mouse */
 }
 </style>
